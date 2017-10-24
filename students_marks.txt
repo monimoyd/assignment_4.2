@@ -1,0 +1,12 @@
+1,Ram,Sharma,English,67
+1,Ram,Sharma,Mathematics,85
+1,Ram,Sharma,Science,65
+2,Shyam,Kumar,English,48
+2,Shyam,Kumar,Mathematics,82
+2,Shyam,Kumar,Science,58
+3,Madhu,Patel,English,71
+3,Madhu,Patel,Mathematics,92
+3,Madhu,Patel,Mathematics,78
+4,Rohit,Jain,English,65
+4,Rohit,Jain,Mathematics,81
+4,Rohit,Jain,Mathematics,39
